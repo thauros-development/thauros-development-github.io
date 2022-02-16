@@ -6,15 +6,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   font: inherit;
   font-size: 100%;
   vertical-align: baseline;
-
-.profile-logo-image {
-    width: 120px; !important
 }
-.profile-logo {
-    width: 120px; !important
-}
-
-
 html {
   line-height: 1;
 }
@@ -367,8 +359,7 @@ p {
   margin-bottom: 0.5em;
   margin-left: auto;
   margin-right: auto;
-  width: 80px;
-}
+  }
 .profile-name {
   font-size: 2em;
   line-height: 2.57143em;
@@ -386,7 +377,7 @@ p {
   display: box;
   font-weight: 300;
   min-height: 2.57143em;
-  margin-left: 98px;
+  margin-left: 110px;
   margin-top: 0.03571em;
 }
 .profile-name h1 {
